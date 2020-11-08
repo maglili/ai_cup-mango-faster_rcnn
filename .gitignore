@@ -1,0 +1,13 @@
+**/logs
+*.log
+Disease_sample
+TrainDev/
+C2_TrainDev_Toy
+pytorch_object_detection
+AI_CUP-C2_DevBaseline.pdf
+__pycache__
+ukai.ttc
+vision
+mango
+model
+hog_anova_svm.py
