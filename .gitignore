@@ -13,3 +13,5 @@ model
 hog_anova_svm.py
 C2_TrainDev/
 *.npy
+Basic_Mango_Tutorial.ipynb
+Evaluation_format.ipynb
